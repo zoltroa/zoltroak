@@ -3,7 +3,7 @@
 🔭 I actively develop Full Stack applications using Next.js and Nest.js, but I want to focus more on Frontend.<br>
 ⚡ My journey started with Express.js, JavaScript, and AJAX.<br>
 🌱 I love new technologies, see no obstacles in challenging tasks, and sometimes create my own libraries.<br>
-💬 Currently, I’m working on YAI-team.<br>
+💬 Currently, I’m working on [YAI-team](https://github.com/YAI-team).<br>
 🤝 I’d be happy to connect with you!
 
 > The account has been recreated due to an email change.
